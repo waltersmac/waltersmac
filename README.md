@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waltersmac
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently improving my skills in C++ and Python
+- 🌱 I’m currently improving my skills in data structures within C++ and Python
 <!--
 - 📫 How to reach me 
 -->
